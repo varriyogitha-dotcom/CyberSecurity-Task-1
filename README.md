@@ -47,3 +47,21 @@ Used to test raw network connections, banner grabbing, and basic data transfer.
 * `pwd` – Print Working Directory (shows exactly where you are in the system).
 * `ls -la` – List all files and directories in long format, including hidden ones.
 * `sudo su` – Switch to the root (administrator) user for full control.
+
+Cyber Security Internship – Task 3
+Task Title:-Web Browser Security Analysis
+Objective:-
+To analyze browser security features by examining browsing history and HTTP security headers using Mozilla Firefox.
+Tools Used:-
+- Mozilla Firefox
+- Browser History
+- Firefox Developer Tools
+Steps Performed:-
+1. Installed and used Mozilla Firefox.
+2. Visited multiple websites to generate browsing history.
+3. Viewed and analyzed the browser history.
+4. Opened Firefox Developer Tools.
+5. Inspected HTTP response headers of a website.
+6. Identified available security headers such as Strict-Transport-Security, Content-Security-Policy, X-Content-Type-Options, X-Frame-Options, and Referrer-Policy.
+Outcome:-Successfully explored browser security features, analyzed browsing history, and observed HTTP security headers to understand how websites improve user security.
+https://drive.google.com/file/d/1zvChvkHcdu-BO3C8eFD5nuFAZkCFbRH3/view?usp=sharing
