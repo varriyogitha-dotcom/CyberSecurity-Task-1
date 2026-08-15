@@ -1,0 +1,49 @@
+# ApexPlanet Internship – Task 2
+
+## Vulnerability Assessment Using Security Tools
+
+### 📌 Task Overview
+
+This task focuses on identifying and assessing security vulnerabilities using commonly used security tools. The objective is to understand how vulnerabilities can be discovered, analyzed, and documented in a controlled environment.
+
+### 🔍 Tools Used
+
+* Nmap – Network scanning and service enumeration
+* OWASP ZAP – Web application security testing
+* Nikto – Web server vulnerability scanning
+* Burp Suite – Web application testing and traffic analysis
+
+### 🛠️ Activities Performed
+
+1. Performed network and port scanning using Nmap.
+2. Identified running services and their versions.
+3. Conducted web vulnerability assessment using OWASP ZAP.
+4. Scanned the web server for common security issues using Nikto.
+5. Analyzed HTTP requests and responses using Burp Suite.
+6. Documented the identified vulnerabilities and their potential impact.
+7. Reviewed possible remediation measures for the discovered issues.
+
+### 📊 Assessment
+
+The assessment helped in understanding:
+
+* Open ports and exposed services
+* Common web application vulnerabilities
+* Security misconfigurations
+* Information disclosure risks
+* The importance of vulnerability scanning and remediation
+
+### 🔐 Security & Ethics
+
+All testing was performed only on authorized systems/lab environments for educational purposes. No unauthorized systems or networks were targeted.
+
+### 📁 Repository Contents
+
+* task video:-https://www.linkedin.com/posts/yogitha-varri-594a36370_cybersecurity-ethicalhacking-nmap-activity-7477020312853716992-dTlV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFv9VsABuuwChpoE-dMnUs_tmlEVAJlGF2E
+
+### 🎯 Learning Outcome
+
+Through this task, I gained practical experience with vulnerability assessment, network reconnaissance, web security testing, vulnerability identification, and security reporting.
+
+**Internship:** ApexPlanet Software Pvt. Ltd.
+**Task:** Task 2 – Vulnerability Assessment Using Security Tools
