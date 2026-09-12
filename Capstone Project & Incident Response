@@ -1,0 +1,42 @@
+# Task 5 – Capstone Project & Incident Response
+
+## Objective
+
+The objective of this task was to perform a basic cybersecurity incident response process by identifying, analyzing, containing, and documenting a simulated security incident in a controlled lab environment.
+
+## Steps Performed
+
+1. **Incident Identification**
+
+   * Identified suspicious activity in the test environment.
+   * Collected initial information and determined the possible security issue.
+
+2. **Evidence Collection**
+
+   * Collected relevant logs, screenshots, and system information.
+   * Preserved the available evidence for further analysis.
+
+3. **Incident Analysis**
+
+   * Analyzed the collected information to understand the nature and possible impact of the incident.
+   * Investigated the affected system and identified suspicious activities.
+
+4. **Containment**
+
+   * Isolated/controlled the affected environment to prevent further impact.
+   * Ensured the investigation was performed safely within the lab environment.
+
+5. **Eradication & Recovery**
+
+   * Identified the cause of the simulated incident and removed the associated threat where applicable.
+   * Verified that the system was functioning normally after the response activities.
+
+6. **Documentation**
+
+   * Documented the investigation process, findings, evidence, and response actions.
+   * Prepared screenshots and supporting details for the final report.
+
+## Result
+
+Successfully completed a simulated incident response workflow in a controlled cybersecurity lab environment and documented the investigation, analysis, and response process.
+video:-https://drive.google.com/file/d/1Rtzgge1tCZbG-vkqtLfQpvwZebfoDkFx/view?usp=drivesdk
